@@ -1,0 +1,6 @@
+# Saidas temporarias
+tmp/
+*.tmp
+
+# Ambientes de execucao das corridas experimentais
+execucoes/**/workspace/
